@@ -8,4 +8,5 @@ https://github.com/sahootrupti/kpmg-tech-challenge/blob/master/3-tier.jpg
 https://github.com/sahootrupti/kpmg-tech-challenge/blob/master/3-tier.xml
 
 
-By the xml file it can be reproduce and by "terraform" we can provision the mentioned resources inside architecture diagram.
+By the xml file we can be reproduce the diagram and by "terraform" we can provision the aws resources which is mentioned inside architecture diagram.
+Note: :Let me know if terraform script is required for this requirement."
