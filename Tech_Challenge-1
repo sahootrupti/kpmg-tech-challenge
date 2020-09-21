@@ -1,3 +1,11 @@
 
 Created resource diagram in draw.io
-Two files are attached 3-tier.jpg and 3-tier.xml in same repo. 
+Two files "3-tier.jpg" and "3-tier.xml" are uploaded in same repo. 
+
+Below are the link:
+
+https://github.com/sahootrupti/kpmg-tech-challenge/blob/master/3-tier.jpg
+https://github.com/sahootrupti/kpmg-tech-challenge/blob/master/3-tier.xml
+
+
+By the xml file it can be reproduce and by "terraform" we can provision the mentioned resources inside architecture diagram.
