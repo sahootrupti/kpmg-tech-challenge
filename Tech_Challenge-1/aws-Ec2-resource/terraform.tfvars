@@ -1,53 +1,53 @@
 /*Please Provide the VPC ID*/
-vpc_id  = ""
+vpc_id  = "********"
 
 /*Provide the CIDR Value that need access to this EC2 Instance*/
-tfcidr    = ""
+tfcidr    = "*********"
 
 /*Network Access (CIDR) Description*/
-cidr_desc = ""
+cidr_desc = "Access-CIDR"
 
 /*Provide the Security Group Name for this*/
-sg_group    = ""
+sg_group    = "Demo"
 
 /*Securioty Group Description*/
-sg_desc  = ""
+sg_desc  = "Demo"
 
 /*EC2 Instance Name that needs to be created*/
-inst_name   = ""
+inst_name   = "Demo"
 
 /*Region where you need the EC2 Instance to be created*/
-region  = ""
+region  = "us-east-2"
 
 /*Instance Type, based on the memory and CPU requirements mention that*/
-inst_type   = ""
+inst_type   = "t2.medium"
 
 /*Your AWS ENVIRONMENT AWS KEY*/
-acs_key = ""
+acs_key = "*********"
 
 /*YOUR AWS ENVIRONMENT SECRET KEY*/
-sec_key = ""
+sec_key = "***********************"
 
 /*Mention the Deployment Tag Value*/
-inst_tag1   = ""
+tag01   = "Demo"
 
 /*Mention the Environment Tag Value*/
-inst_tag3   = ""
+tag02   = "Demo"
 
 /*Mention the Product Tag Value*/
-inst_tag2   = ""
+tag03   = "Demo"
 
 /*Mention the SSH PublicKey (id_rsa.pub) Value to generate the PEM Key*/
-ssh_key   = ""
+ssh_key   = "ssh-rsa ***************"
 
 /*Availability Zone <region>a or <region>b or <region>c*/
-avail_zone  = ""
+avail_zone  = "us-east-2"
 
 /*EC2 Instance PEM Key Name*/
-key_pair    = ""
+key_pair    = "Demo-Key"
 
 /*AMI that needs to be used for EC2 Instance To be Created*/
-ami_name = ""
+ami_name = "ami-***************"
 
 /*PORT Detais for the EC2 Instance*/
 tfport  = "22"
