@@ -165,7 +165,7 @@ Terraform will perform the following actions:
       + cidr_blocks              = [
           + "*****",
         ]
-      + description              = "N.Heights CIDR"
+      + description              = "Access-CIDR"
       + from_port                = 22
       + id                       = (known after apply)
       + protocol                 = "tcp"
