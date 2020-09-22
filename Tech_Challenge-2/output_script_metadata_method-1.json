@@ -1,0 +1,7 @@
+{
+    "InstanceId": "i-**********",
+    "InstanceType": {
+        "Value": "t2.medium"
+    }
+}
+
