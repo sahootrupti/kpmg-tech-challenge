@@ -1,0 +1,21 @@
+variable "vpc_id" {}
+variable "key_pair" {}
+variable "sg_group" {}
+variable "inst_name" {}
+variable "ssh_key" {}
+variable "acs_key" {}
+variable "sec_key" {}
+variable "region" {}
+variable "inst_type" {}
+variable "ami_name" {}
+variable "avail_zone" {}
+variable "tfport" {}
+variable "tfvol" {}
+variable "tfcidr" {}
+variable "tag01" {}
+variable "tag02" {}
+variable "tag03" {}
+variable "cidr_desc" {}
+variable "sg_desc" {}
+variable "vol_del" {}
+
